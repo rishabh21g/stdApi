@@ -77,5 +77,9 @@ tmp/
 config.local.*
 
 #storage files
+storage
 storage/storage.db
 storage/storage.db-shm
+
+#config files
+config
