@@ -81,5 +81,3 @@ storage
 storage/storage.db
 storage/storage.db-shm
 
-#config files
-config
